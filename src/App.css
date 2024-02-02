@@ -1,0 +1,77 @@
+nav{
+  background: #cfd8dc;
+  display: flex;
+  justify-content: center;
+  padding: 15px;
+  }
+  .link {
+  padding: 10px 40px;
+  text-decoration: none;
+  color: black;
+  text-transform: uppercase;
+  }
+  .products {
+  display: flex;
+  flex-wrap: wrap;
+  }
+  .product-card {
+  margin-left: 40px;
+  padding: 10px;
+  flex-grow: 1;
+  flex-basis: 16%;
+  }
+  body {
+  background-color: #f3e9e1;
+  }
+  .cont {
+  display: flex;
+  justify-content: center;
+  }
+  .back {
+  background-color: #E8C872; 
+  padding: 40px;
+  margin-left: 40px;
+  margin-right: 20px;
+  font-family: 'Encode Sans Semi Expanded', sans-serif;
+  }
+  .back1{
+  background-color: #E8C872; 
+  padding: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 30px;
+  font-family: 'Encode Sans Semi Expanded', sans-serif;
+  }
+  .change {
+  background-color: rgb(50, 49, 56);
+  color: white;
+  padding: 10px;
+  border: none;
+  font-family: 'Encode Sans Semi Expanded', sans-serif;
+  }
+  .text{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 20px;
+  font-weight: 500;
+  }
+  .head{
+  display: flex;
+  justify-content: center;
+  margin-left: 10px;
+  margin-top: 40px;
+  }
+  .bckgrnd{
+  background-repeat: no-repeat;
+  background-size: 100px;
+  background-position:left;
+  background: rgb(230, 229, 219);
+  background: linear-gradient(90deg, rgb(241, 233, 204) 0%, rgb(237, 232, 202) 35%, rgb(231, 201, 194) 100%);
+  }
+  h3, h4 {
+  font-family: 'Encode Sans Semi Expanded', sans-serif;
+  }
+  button {
+  margin: 10px;
+  }
